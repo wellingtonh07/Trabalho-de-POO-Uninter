@@ -1,0 +1,1 @@
+Esse trabalho foi feito em Outubro de 2022. É um trabalho de cofrinho de moedas, onde pode adicionar, remover, listar e converter todas as moedas guardades nesse cofre em reais. Feito somente em Java. 
