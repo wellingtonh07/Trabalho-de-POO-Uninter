@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Wellington
+ *
+ */
+module Cofrinho {
+}
